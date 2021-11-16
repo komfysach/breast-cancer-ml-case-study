@@ -1,1 +1,1 @@
-Breast Cancer Machine Learning model using Python and Jupyter
+Breast Cancer Machine Learning case study
